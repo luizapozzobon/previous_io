@@ -61,7 +61,7 @@ export default {
 				projectName: "Contrastive Proximal Policy Optimization",
 				image: "images/qbert.jpg",
 				summary:
-					"Mixed reinforcement learning algorithm PPO with the SpatioTemporal DeepInfoMax to understand if an agent with the capability to linearly separate objects performs better than an agent with no such priors (an agent with an entangled representation of the current observation)",
+					"Mixed reinforcement learning algorithm PPO with the SpatioTemporal DeepInfoMax to understand if an agent with the capability to linearly separate objects performs better than an agent with no such priors.",
 				preview: "https://github.com/luizapozzobon/ia368cc-project",
 				techStack: ["PyTorch"],
 			},

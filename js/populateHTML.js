@@ -303,7 +303,7 @@ populateProjects(data.projects.research, "research");
 populateProjects(data.projects.android, "android-projects");
 populateProjects(data.projects.freelance, "freelance-projects"); */
 
-populateExp_Edu(data.experience, "experience");
-populateExp_Edu(data.education, "education");
+/* populateExp_Edu(data.experience, "experience");
+populateExp_Edu(data.education, "education"); */
 
 populateLinks(data.footer, "footer");
