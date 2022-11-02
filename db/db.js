@@ -47,7 +47,7 @@ export default {
 		},
 	],
 	projects: {
-		research_work: [
+		research: [
 			{
 				projectName: "Biases in Generative Models for non-conditional image generation",
 				image: "images/biases_gen_models.png",
